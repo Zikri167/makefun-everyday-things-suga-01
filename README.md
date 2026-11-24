@@ -1,6 +1,6 @@
-[![Everyday Things, Two Lines, Longer Run](https://make.fun/api/badge/competition/u-suga-everyday-things-two-lines-longer-run-f8734479)](https://make.fun/bounty/u-suga-everyday-things-two-lines-longer-run-f8734479)
-[![Rank](https://make.fun/api/badge/rank/zikri167/makefun-everyday-things-suga-01)](https://make.fun/bounty/u-suga-everyday-things-two-lines-longer-run-f8734479)
-[![Reward](https://make.fun/api/badge/reward/zikri167/makefun-everyday-things-suga-01)](https://make.fun/bounty/u-suga-everyday-things-two-lines-longer-run-f8734479)
+[![make.fun · u-suga-everyday-things-two-lines-longer-run-f8734479](https://make.fun/badge/u-suga-everyday-things-two-lines-longer-run-f8734479.svg)](https://make.fun/bounty/u-suga-everyday-things-two-lines-longer-run-f8734479?utm_source=github&utm_medium=readme&utm_campaign=u-suga-everyday-things-two-lines-longer-run-f8734479)
+[![rank](https://make.fun/badge/u-suga-everyday-things-two-lines-longer-run-f8734479/Zikri167/makefun-everyday-things-suga-01/rank.svg)](https://make.fun/bounty/u-suga-everyday-things-two-lines-longer-run-f8734479/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-suga-everyday-things-two-lines-longer-run-f8734479)
+[![reward](https://make.fun/badge/u-suga-everyday-things-two-lines-longer-run-f8734479/Zikri167/makefun-everyday-things-suga-01/reward.svg)](https://make.fun/bounty/u-suga-everyday-things-two-lines-longer-run-f8734479?utm_source=github&utm_medium=readme&utm_campaign=u-suga-everyday-things-two-lines-longer-run-f8734479)
 
 # Everyday Things, Two Lines — Echo
 
